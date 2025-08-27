@@ -1,2 +1,2 @@
 # WaterTankProject
-WaterTank description
+The code will prompt the user to choose 1 or 2(HomeTank or Building Tank), and then gives option whether to check, fill, or use the tank and runs until its either empty or full...
